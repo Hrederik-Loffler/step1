@@ -1,4 +1,4 @@
-![logo](https://logos-download.com/30592-project-logo-download.html)
+![logo](https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.cyberoi.com%2Fabout%2Fproject-online-logo%2F&psig=AOvVaw1TZ8-Vp_E0gENwucPtm8MU&ust=1614778330050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDV75vcke8CFQAAAAAdAAAAABAI)
 <h1>My first project </h1>
 
 <h2>Тут вы найдете информацию о правилах запуска проекта</h2>
