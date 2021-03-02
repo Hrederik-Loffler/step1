@@ -1,8 +1,9 @@
-<img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.cyberoi.com%2Fabout%2Fproject-online-logo%2F&psig=AOvVaw1TZ8-Vp_E0gENwucPtm8MU&ust=1614778330050000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDV75vcke8CFQAAAAAdAAAAABAI" />
+<img src="https://media.prod.mdn.mozit.cloud/attachments/2013/11/15/6457/5e0f6aa96fb8e4593f143aa803576698/mdn_logo_only_color.png" />
 
 <h1>My first project </h1>
 
 <h2>Тут вы найдете информацию о правилах запуска проекта</h2>
+
 <li>Первое правило</li>
 <li>Второе правило</li>
 <li>Третье правило</li>
