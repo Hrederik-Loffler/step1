@@ -1,4 +1,4 @@
-<img src="https://media.prod.mdn.mozit.cloud/attachments/2013/11/15/6457/5e0f6aa96fb8e4593f143aa803576698/mdn_logo_only_color.png" />
+<img src="https://media.prod.mdn.mozit.cloud/attachments/2013/11/15/6457/5e0f6aa96fb8e4593f143aa803576698/mdn_logo_only_color.png" height="100px" width="100px"/>
 
 <h1>My first project </h1>
 
